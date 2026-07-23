@@ -4,9 +4,9 @@ import Footer from "./component/Footer"
 import SearchByCategory from "./component/SearchByCategory"
 import Products from "./component/Products"
 import { Outlet, Route, Routes } from "react-router-dom"
-import AboutUs from "./Component/AboutUs"
-import ProductsDetail from "./Component/ProductDetails"
-import ContactUs from "./Component/ContactUs"
+import AboutUs from "./component/AboutUs"
+import ProductsDetail from "./component/ProductDetails"
+import ContactUs from "./component/ContactUs"
 import Home from "./Pages/Home"
 
 
