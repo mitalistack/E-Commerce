@@ -2,8 +2,8 @@ import React from 'react'
 import Hero from '../component/Hero'
 import SearchByCategory from '../component/SearchByCategory'
 import Products from '../component/Products'
-import AboutUs from '../Component/AboutUs'
-import ContactUs from '../Component/ContactUs'
+import AboutUs from '../component/AboutUs'
+import ContactUs from '../component/ContactUs'
 
 const Home = () => {
   return (
