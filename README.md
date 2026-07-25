@@ -1,4 +1,4 @@
-# 🛍️ ShopSphere – E-Commerce Web Application
+# 🛍️ ShopEasy – E-Commerce Web Application
 
 A modern and responsive **E-Commerce Web Application** built using **React.js, Tailwind CSS, and Vite**. The application provides a clean and intuitive shopping experience with features like product search, category filtering, and shopping cart functionality.
 
