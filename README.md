@@ -10,7 +10,7 @@ A modern and responsive **E-Commerce Web Application** built using **React.js, T
 
 ## 📖 Overview
 
-ShopSphere is a frontend e-commerce application developed to strengthen my understanding of React and modern frontend development. The project follows a component-based architecture and focuses on creating a responsive, user-friendly interface that works seamlessly across different devices.
+ShopEasy is a frontend e-commerce application developed to strengthen my understanding of React and modern frontend development. The project follows a component-based architecture and focuses on creating a responsive, user-friendly interface that works seamlessly across different devices.
 
 ---
 
@@ -65,7 +65,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/mitalistack/E-Commerce.git
 ```
 
 Navigate to the project folder
