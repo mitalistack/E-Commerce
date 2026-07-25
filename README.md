@@ -100,18 +100,6 @@ npm run preview
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Product Listing
-* Search Functionality
-* Category Filtering
-* Shopping Cart
-
----
-
 ## 🎯 Learning Outcomes
 
 This project helped me improve my understanding of:
